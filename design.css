@@ -1,0 +1,48 @@
+* {
+    font-size: 24px;
+}
+body {
+    background-color: #2b1c2f;
+}
+.card {
+    background-color: #1a3640;
+    
+}
+h3 {
+    color: white;
+    font-family: 'Major Mono Display', monospace;
+}
+h1,p {
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+.card-header {
+    background-color: #1a3640;
+    border: 0;
+}
+.input-group-text {
+    background-color: #075d57;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+.w {
+    min-width: 210px;
+}
+.btn-lg, .btn-lg:active, .btn-lg:visited {
+    background-color: #2b1c2f !important;
+    border: 0;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    min-width: 180px;
+}
+.btn-lg:hover {
+    background-color: #707070 !important;
+    color: #075d57;
+    font-family: 'Quicksand', sans-serif;
+    min-width: 180px;
+}
+.container {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
